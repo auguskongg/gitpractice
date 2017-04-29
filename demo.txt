@@ -1,2 +1,2 @@
-My name is Augus.
-Nice to meet you.
+Git is a distributed version control system.
+Git is free software.
